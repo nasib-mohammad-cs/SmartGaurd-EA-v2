@@ -113,5 +113,3 @@ SmartGuard EA v2.0 is designed for **stable, filtered, and highly disciplined ex
 ### 📌 **Final Note**
 
 This EA is built to handle **multi-layered confirmations**, **conservative entry filtering**, and **automated profit-securing** mechanisms, making it ideal for optimization and forward testing in volatile, liquid FX markets like EURUSD, GBPUSD, or XAUUSD.
-
-Let me know if you want this exported to PDF or want an optimizer-ready parameter guide next.
